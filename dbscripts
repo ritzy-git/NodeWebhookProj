@@ -1,0 +1,9 @@
+create database :sqlite3 mydata.db
+
+create table :
+
+create table location (id int PRIMARY KEY  AUTOINCREMENT,lat varchar(100),long varchar(100),phoneno varchar(10),detectiontime datetime);
+
+insert into location (lat,long,phoneno,detectiontime) values("45.554654","89.44654","989894212",CURRENT_TIMESTAMP);
+
+select * from location ;
