@@ -24,7 +24,7 @@
   "homepage": "https://github.com/ritzy-git/NodeWebhookProj#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.0",
     "socket.io": "^2.2.0",
     "sqlite3": "^4.0.9"
